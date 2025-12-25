@@ -109,7 +109,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold mb-1">Phone</h4>
-                      <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                      <p className="text-muted-foreground">207 947-1999</p>
                     </div>
                   </div>
 
@@ -119,7 +119,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold mb-1">Location</h4>
-                      <p className="text-muted-foreground">Advanced Research Facility<br />Silicon Valley, CA</p>
+                      <p className="text-muted-foreground">PO Box 52, Detroit, ME 04929</p>
                     </div>
                   </div>
                 </div>
