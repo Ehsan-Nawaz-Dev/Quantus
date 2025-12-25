@@ -99,7 +99,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold mb-1">Email</h4>
-                      <p className="text-muted-foreground">info@quantus.tech</p>
+                      <p className="text-muted-foreground">info@quantus.com</p>
                     </div>
                   </div>
 
